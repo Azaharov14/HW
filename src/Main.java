@@ -109,7 +109,7 @@ public class Main {
         System.out.println(result11);
         int result12 = result8 + result9 + result10 + result11;
         System.out.println(result12);
-        float result13 = result8 + result9 + result10 + result11;
+        float result13 = (result8 + result9 + result10 + result11) / 1000F;
         System.out.println(result13);
 
 
